@@ -1,0 +1,180 @@
+.v {
+    position: absolute;
+    margin-left: 8.25%;
+    margin-top: 0.7%;
+}
+
+.ve{
+    position: absolute;
+    margin-left: 8.25%;
+    margin-top: 0.7%;
+}
+.vec{
+    position: absolute;
+    margin-top: 1.5%;
+    margin-left: 8.8%;
+}
+.spisok{
+    list-style: none;
+    margin-left: 9%;
+    position: absolute;
+}
+li{
+    display: inline;
+    margin-right: 125px;
+}
+.slog{
+    color: #0A61F7;
+    font-weight: bold;
+    font-size: 24px
+}
+.div{
+    position: absolute;
+    width: 173px;
+    height: 51px;
+    background-color: #0A61F7;
+    margin-left: 72%;
+    margin-top: 0.3%;
+}
+.wheit{
+    color: white;
+    text-align: center;
+}
+.str{
+    background-color: #f3f8ff;
+}
+.e2{
+    margin-top: 75px;
+
+}
+.e3{
+    margin-left: 40%;
+    margin-top: 75px;
+}
+.e4{
+    margin-left: 92%;
+}
+.e7{
+
+    margin-left: 7%;
+
+}
+.e9{
+    margin-left: 90%;
+}
+.e5{
+    margin-left: 45%;
+}
+.e6{
+    margin-left: 45%;
+}
+.ser{
+    text-align: center;
+    color: #ACB4C2;
+}
+.text1{
+    margin-left: 40%;
+    font-size: 57px;
+    width: 507px;
+    height: 146px;
+}
+.div2{
+    margin-top: 0;
+    margin-left: 45%;
+    width: 173px;
+    height: 51px;
+    background-color: #0A61F7;
+}
+.wheit2{
+    color: white;
+    text-align: center;
+}
+.ser2{
+    position: absolute;
+    color: #ACB4C2;
+    margin-left: 5%;
+    margin-bottom: 0;
+}
+.text2{
+    position: absolute;
+    margin-left: 5%;
+    font-size: 39px;
+}
+.text3{
+    position: absolute;
+    color: #0A61F7;
+    font-size: 39px;
+    margin-left: 26.3%;
+}
+.frames{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 5%
+}
+.blue{
+    align-items: center;
+    width: 351px;
+    height: 67px;
+    background-color: #EAF3FF;
+}
+.gold{
+    width: 351px;
+    height: 67px;
+    background-color: #FFF8E4;
+}
+.red{
+    width: 351px;
+    height: 67px;
+    background-color:#FFF3EF;
+}
+.green{
+    width: 351px;
+    height: 67px;
+    background-color:#E2FBF2;
+}
+.purp{
+    width: 351px;
+    height: 67px;
+    background-color:#F1F1FC;
+}
+.fio{
+    width: 351px;
+    height: 67px;
+    background-color:#F3E5F5;
+}
+.al{
+    width: 351px;
+    height: 67px;
+    background-color:#FFE5ED;
+}
+.rect{
+    position: absolute;
+    width: 666px;
+    height: 412px;
+    margin-left: 500px;
+    margin-top: -450px;
+}
+.str2{
+    position: absolute;
+}
+.bt{
+    width: 85px;
+    position: absolute;
+    margin-left: 500px;
+    color: #0A61F7;
+    font-size: 22px;
+}
+.txt{
+    position: absolute;
+    width: 435px;
+    font-size: 22px;
+    margin-left: 585px;
+}
+.kn{
+    position: absolute;
+    width: 173px;
+    height: 51px;
+    background-color: #0A61F7;
+    margin-left: 500px;
+    margin-top: 75px;
+}
